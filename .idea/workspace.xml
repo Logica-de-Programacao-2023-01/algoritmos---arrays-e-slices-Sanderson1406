@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5be70bbf-932b-4abf-abd3-bf2f2c93b5cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.go" beforeDir="false" afterPath="$PROJECT_DIR$/1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.go" beforeDir="false" afterPath="$PROJECT_DIR$/3.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +34,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NvhwSxQNBhu9XcC39tMIct82Jh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,7 +60,15 @@
     "settings.editor.selected.configurable": "go.sdk"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Build.go build 4.go">
+  <component name="RunManager" selected="Go Build.go build 11.go">
+    <configuration name="go build 10.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos---arrays-e-slices-Sanderson1406" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/10.go" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build 11.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---arrays-e-slices-Sanderson1406" />
       <working_directory value="$PROJECT_DIR$" />
@@ -62,45 +77,37 @@
       <filePath value="$PROJECT_DIR$/11.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 6.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---arrays-e-slices-Sanderson1406" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/1.go" />
+      <filePath value="$PROJECT_DIR$/6.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 7.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---arrays-e-slices-Sanderson1406" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/2.go" />
+      <filePath value="$PROJECT_DIR$/7.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 8.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---arrays-e-slices-Sanderson1406" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/3.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build 4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algoritmos---arrays-e-slices-Sanderson1406" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/4.go" />
+      <filePath value="$PROJECT_DIR$/8.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build 4.go" />
-        <item itemvalue="Go Build.go build 1.go" />
-        <item itemvalue="Go Build.go build 3.go" />
         <item itemvalue="Go Build.go build 11.go" />
-        <item itemvalue="Go Build.go build 2.go" />
+        <item itemvalue="Go Build.go build 10.go" />
+        <item itemvalue="Go Build.go build 8.go" />
+        <item itemvalue="Go Build.go build 7.go" />
+        <item itemvalue="Go Build.go build 6.go" />
       </list>
     </recent_temporary>
   </component>
@@ -110,5 +117,16 @@
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/10.go</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
