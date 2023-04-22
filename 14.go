@@ -10,5 +10,5 @@ func main() {
 	fmt.Println("Sgundo elemnto")
 	fmt.Scan(&y)
 	slice[x], slice[y] = slice[y], slice[x]
-	println(slice)
+	fmt.Println(slice)
 }

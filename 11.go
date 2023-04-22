@@ -10,9 +10,5 @@ func main() {
 	fmt.Scanln(&l)
 	fmt.Println("Informe a coluna do elemento: ")
 	fmt.Scanln(&c)
-	for linha := range matriz {
-		for coluna, elemento := range matriz[linha] {
-			fmt.Println("Elenento da linha ", linha, "coluna ", coluna, "é: ", elemento)
-		}
-	}
+	fmt.Println(matriz[l][c])
 }

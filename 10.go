@@ -9,7 +9,7 @@ func main() {
 	max := ele[0]
 	for _, eles := range ele {
 		if eles < min {
-			min = eles // atualiza o menor número encontrado
+			min = eles
 		}
 		if eles > max {
 			max = eles

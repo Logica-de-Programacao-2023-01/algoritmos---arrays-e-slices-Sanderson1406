@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 	var slice []int
 	var soma, tamanho, x int
-	fmt.Println("digite o tamanho do slice: ")
+	fmt.Println("Digite o tamanho do slice: ")
 	fmt.Scanln(&tamanho)
 	for i := 0; i < tamanho; i++ {
 		fmt.Println("Digite um número ")

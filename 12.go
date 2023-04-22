@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	ele := [5]int{0, 3, 6, 7, 9}
+	ele := [5]int{7, 5, 6, 17, 21}
 	nv := []int{}
 	for _, eles := range ele {
 		if eles%3 == 0 {
