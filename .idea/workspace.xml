@@ -6,18 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5be70bbf-932b-4abf-abd3-bf2f2c93b5cf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.go" beforeDir="false" afterPath="$PROJECT_DIR$/10.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.go" beforeDir="false" afterPath="$PROJECT_DIR$/11.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.go" beforeDir="false" afterPath="$PROJECT_DIR$/12.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14.go" beforeDir="false" afterPath="$PROJECT_DIR$/14.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16.go" beforeDir="false" afterPath="$PROJECT_DIR$/16.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17.go" beforeDir="false" afterPath="$PROJECT_DIR$/17.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20.go" beforeDir="false" afterPath="$PROJECT_DIR$/20.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.go" beforeDir="false" afterPath="$PROJECT_DIR$/4.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.go" beforeDir="false" afterPath="$PROJECT_DIR$/5.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.go" beforeDir="false" afterPath="$PROJECT_DIR$/6.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.go" beforeDir="false" afterPath="$PROJECT_DIR$/7.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.go" beforeDir="false" afterPath="$PROJECT_DIR$/8.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.go" beforeDir="false" afterPath="$PROJECT_DIR$/1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.go" beforeDir="false" afterPath="$PROJECT_DIR$/2.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,60 +49,60 @@
     "configurable.GoLibrariesConfigurable.is.expanded": "true",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "C:/Users/sande/repos/algoritmos---arrays-e-slices-Sanderson1406",
+    "last_opened_file_path": "C:/Users/sande/GitHub/Faculdade/2023.1/algoritmos---arrays-e-slices-Sanderson1406",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "settings.editor.selected.configurable": "go.sdk"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Build.go build 3.go">
-    <configuration name="go build 3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build 20.go">
+    <configuration name="go build 16.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---arrays-e-slices-Sanderson1406" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/3.go" />
+      <filePath value="$PROJECT_DIR$/16.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 17.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---arrays-e-slices-Sanderson1406" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/4.go" />
+      <filePath value="$PROJECT_DIR$/17.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 5.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 18.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---arrays-e-slices-Sanderson1406" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/5.go" />
+      <filePath value="$PROJECT_DIR$/18.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 6.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 19.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---arrays-e-slices-Sanderson1406" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/6.go" />
+      <filePath value="$PROJECT_DIR$/19.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 7.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 20.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---arrays-e-slices-Sanderson1406" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/7.go" />
+      <filePath value="$PROJECT_DIR$/20.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build 3.go" />
-        <item itemvalue="Go Build.go build 4.go" />
-        <item itemvalue="Go Build.go build 5.go" />
-        <item itemvalue="Go Build.go build 6.go" />
-        <item itemvalue="Go Build.go build 7.go" />
+        <item itemvalue="Go Build.go build 20.go" />
+        <item itemvalue="Go Build.go build 19.go" />
+        <item itemvalue="Go Build.go build 18.go" />
+        <item itemvalue="Go Build.go build 17.go" />
+        <item itemvalue="Go Build.go build 16.go" />
       </list>
     </recent_temporary>
   </component>
@@ -122,16 +112,5 @@
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/6.go</url>
-          <line>9</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
