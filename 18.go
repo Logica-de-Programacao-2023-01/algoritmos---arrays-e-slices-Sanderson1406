@@ -7,16 +7,11 @@ func main() {
 	fmt.Println("Digite o valor de n: ")
 	fmt.Scan(&n)
 	var primos []int
-	for i := 2; i <= n; i++ {
-		primo := true
-		for x := 2; x < i; i++ {
-			if i%x == 0 {
-				primo = false
-				break
-			}
-		}
-		if primo {
+	for i := n; i >= 1; i-- {
+		if n%i == 0 && n%n == 0 {
 			primos = append(primos, i)
+		} else if n%i != 0 || n%n != 0 {
+			continue
 		}
 	}
 	fmt.Println(primos)

@@ -9,7 +9,7 @@ func main() {
 	fmt.Println(ele2)
 	soma := make([]int, len(ele1))
 	for i := 0; i < len(ele1); i++ {
-		soma[i] = ele1[1] + ele2[i]
+		soma[i] = ele1[i] + ele2[i]
 	}
 	fmt.Println("A soma deles é: ", soma)
 }

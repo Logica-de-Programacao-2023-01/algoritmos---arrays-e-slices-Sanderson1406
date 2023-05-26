@@ -7,7 +7,12 @@
     <list default="true" id="5be70bbf-932b-4abf-abd3-bf2f2c93b5cf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1.go" beforeDir="false" afterPath="$PROJECT_DIR$/1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.go" beforeDir="false" afterPath="$PROJECT_DIR$/2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13.go" beforeDir="false" afterPath="$PROJECT_DIR$/13.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14.go" beforeDir="false" afterPath="$PROJECT_DIR$/14.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/18.go" beforeDir="false" afterPath="$PROJECT_DIR$/18.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19.go" beforeDir="false" afterPath="$PROJECT_DIR$/19.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.go" beforeDir="false" afterPath="$PROJECT_DIR$/7.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.go" beforeDir="false" afterPath="$PROJECT_DIR$/8.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,40 +41,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultGoTemplateProperty": "Go Application",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "configurable..is.expanded": "false",
-    "configurable.GoLibrariesConfigurable.is.expanded": "true",
-    "go.import.settings.migrated": "true",
-    "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "C:/Users/sande/GitHub/Faculdade/2023.1/algoritmos---arrays-e-slices-Sanderson1406",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "settings.editor.selected.configurable": "go.sdk"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go Application&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;configurable..is.expanded&quot;: &quot;false&quot;,
+    &quot;configurable.GoLibrariesConfigurable.is.expanded&quot;: &quot;true&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sande/GitHub/Faculdade/2023.1/algoritmos---arrays-e-slices-Sanderson1406&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;go.sdk&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Go Build.go build 20.go">
-    <configuration name="go build 16.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="Go Build.go build 2.go">
+    <configuration name="go build 13.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---arrays-e-slices-Sanderson1406" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/16.go" />
+      <filePath value="$PROJECT_DIR$/13.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 17.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 14.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---arrays-e-slices-Sanderson1406" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/17.go" />
+      <filePath value="$PROJECT_DIR$/14.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build 18.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -88,21 +93,21 @@
       <filePath value="$PROJECT_DIR$/19.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 20.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---arrays-e-slices-Sanderson1406" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/20.go" />
+      <filePath value="$PROJECT_DIR$/2.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build 20.go" />
+        <item itemvalue="Go Build.go build 2.go" />
         <item itemvalue="Go Build.go build 19.go" />
         <item itemvalue="Go Build.go build 18.go" />
-        <item itemvalue="Go Build.go build 17.go" />
-        <item itemvalue="Go Build.go build 16.go" />
+        <item itemvalue="Go Build.go build 14.go" />
+        <item itemvalue="Go Build.go build 13.go" />
       </list>
     </recent_temporary>
   </component>

@@ -8,10 +8,13 @@ func main() {
 	var v string
 	fmt.Println("Informe um valor: ")
 	fmt.Scan(&v)
-	for i := 0; i < len(ele); i++ {
-		if ele[i] == v {
-			ele = append(ele[:i], ele[i+1])
+	saida := make([]string, 8)
+	for _, x := range ele {
+		if x != v {
+			saida = append(saida, x)
+		} else if x == v {
+			continue
 		}
 	}
-	fmt.Println(ele)
+	fmt.Println(saida)
 }

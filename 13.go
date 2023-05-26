@@ -10,15 +10,9 @@ func main() {
 	fmt.Scanln(&n1)
 	fmt.Println("Informe o número que será adicionado no ultimo: ")
 	fmt.Scanln(&n2)
-	var l1 = []int{}
-	var e1 = []int{n1}
-	var e2 = []int{n2}
-	for _, eles := range ele {
-		eles++
-		l2 := make([]int, eles)
-		l1 = append(l1, e1...)
-		l1 = append(l1, l2...)
-		l1 = append(l1, e2...)
-	}
+	l1 := make([]int, 0, len(ele)+2)
+	l1 = append(l1, n1)
+	l1 = append(l1, ele[:]...)
+	l1 = append(l1, n2)
 	fmt.Println(l1)
 }
